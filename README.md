@@ -22,6 +22,6 @@ An interactive **Power BI dashboard** to analyze **sales trends** and **customer
   - 📱 Device Preference  
   - 💰 Payment Method Distribution  
 
-### 🛠️ **Tools Used:** Power BI, SQL, Excel/CSV  
+### 🛠️ **Tools Used:** Power BI,Excel/CSV  
 
 📊 **A simple dashboard for quick business insights!** 🚀  
