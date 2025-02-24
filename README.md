@@ -1,6 +1,6 @@
 # Sales-Trend-and-Customer-insights-Dashboard
 
-# 🚀 Power BI Project: Sales Trends & Customer Insights 📊  
+# 🚀 Power BI Project: Sales Trend & Customer Insights 📊  
 
 An interactive **Power BI dashboard** to analyze **sales trends** and **customer behavior** with easy-to-understand visuals.  
 
